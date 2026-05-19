@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dart 学习指南
 
 ## 学习路径
@@ -36,3 +37,7 @@ dart_learning/
 - [Dart 官方文档](https://dart.dev/guides)
 - [Flutter 官方文档](https://flutter.dev/docs)
 - [Dart 编程语言详解](https://dart.dev/language)
+=======
+# dart_learning
+Dart 学习资料
+>>>>>>> e114d3444c4b6c7e7017c59366753a320e3b73c5
